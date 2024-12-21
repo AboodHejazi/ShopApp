@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/shop_shirts/src/Shop_Tshirt/ColorTShirtDecorator.java</file>
+            <file>file:/D:/shop_shirts/src/Shop_Tshirt/Subject.java</file>
+            <file>file:/D:/shop_shirts/src/Shop_Tshirt/SoldItem.java</file>
+            <file>file:/D:/shop_shirts/src/Shop_Tshirt/IShirt.java</file>
+            <file>file:/D:/shop_shirts/src/Shop_Tshirt/ShopFactory.java</file>
+            <file>file:/D:/shop_shirts/src/Shop_Tshirt/SoldItemObserver.java</file>
+            <file>file:/D:/shop_shirts/src/Shop_Tshirt/TextTShirtDecorator.java</file>
+            <file>file:/D:/shop_shirts/src/Shop_Tshirt/Order.java</file>
+            <file>file:/D:/shop_shirts/src/Shop_Tshirt/Color.java</file>
+            <file>file:/D:/shop_shirts/src/Shop_Tshirt/LogoTShirtDecorator.java</file>
+            <file>file:/D:/shop_shirts/src/Shop_Tshirt/TShirt.java</file>
+            <file>file:/D:/shop_shirts/src/Shop_Tshirt/TShirtDecorator.java</file>
+            <file>file:/D:/shop_shirts/src/Shop_Tshirt/TShirtSize.java</file>
+            <file>file:/D:/shop_shirts/src/Shop_Tshirt/Observer.java</file>
+        </group>
+    </open-files>
+</project-private>
